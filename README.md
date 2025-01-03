@@ -83,11 +83,6 @@ To enable logging:
 MuiLocalization.enableLogging(true);
 ```
 
-### Logging messages:
-- **INFO**: Indicates that logging is enabled.
-- **DEBUG**: Detailed messages about file loading and locale data.
-- **WARNING**: Warnings when a key or locale is not found.
-
 ## Example
 
 ```java
