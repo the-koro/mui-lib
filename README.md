@@ -1,4 +1,4 @@
-# mui-lib Mui Localization Library for Java
+# `mui-lib` Theko Mui Localization Library for Java
 
 **mui-lib** is a Java library for handling localization data for different locales. It loads `.mui` localization files from a given folder and provides methods to retrieve localized strings for specific keys and locales.
 
