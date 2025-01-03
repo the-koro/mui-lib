@@ -6,7 +6,7 @@
 
     <groupId>org.theko.mui</groupId>
     <artifactId>mui-lib</artifactId>
-    <version>1.0.0-release</version>
+    <version>1.0.1-release</version>
     <packaging>jar</packaging>
 
     <name>Theko Mui Localiztion Library</name>
