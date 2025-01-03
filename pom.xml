@@ -27,6 +27,7 @@
             <version>0.6.7-beta</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/src/lib/logger-0.6.7-beta.jar</systemPath>
+            <optional>true</optional>
         </dependency>
     </dependencies>
 
