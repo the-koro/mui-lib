@@ -1,6 +1,6 @@
-# MuiLocalization
+# mui-lib Mui Localization Library for Java
 
-**MuiLocalization** is a Java library for handling localization data for different locales. It loads `.mui` localization files from a given folder and provides methods to retrieve localized strings for specific keys and locales.
+**mui-lib** is a Java library for handling localization data for different locales. It loads `.mui` localization files from a given folder and provides methods to retrieve localized strings for specific keys and locales.
 
 ## Features
 - Load `.mui` localization files from a specified directory.
@@ -9,7 +9,7 @@
 - Optional logging functionality to trace the loading and access of localization files.
 
 ## Requirements
-- Java 8 or higher.
+- Java 11 or higher.
 - **Optional**: External Java logging library `org.theko.logger` for logging functionality.
 
 ## Installation
